@@ -15,10 +15,6 @@ Thank you for visiting and enjoy your coding! 🚀
 - **Programming Languages:** TypeScript/JavaScript, Lua, C, C# and Python
 - **Frameworks/Libraries:** NextJS
 - **Databases:** MongoDB, MySQL and SQLServer
-  
-### 💻 Technologies:
-- Springboot
-- Android Studio (Kotlin)
 
 ### ⭐ Info:
 - 📍 Location: Portugal
